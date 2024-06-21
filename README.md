@@ -1,13 +1,8 @@
-## Hi there, I'm Minh Vu 👋
+# Hi there, I'm Minh Vu 👋
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <a href="https://github-readme-stats.vercel.app/api?username=Codebutproblem&theme=tokyonight">
-    <img src="https://github-readme-stats.vercel.app/api?username=Codebutproblem&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact" />
-  </a>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codebutproblem&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact)
 
 ## Languages and Tools
 
