@@ -1,6 +1,6 @@
 # Hi there, I'm Minh Vu 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codebutproblem)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codebutproblem&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact)
 
