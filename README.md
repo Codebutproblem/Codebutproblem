@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Minh Vu 👋
 
-<!--
-**Codebutproblem/Codebutproblem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <a href="https://github-readme-stats.vercel.app/api?username=Codebutproblem&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api?username=Codebutproblem&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Language And Tools](https://skillicons.dev/icons?i=nodejs,react,js,ts,java,python,html,css,tailwind)](https://skillicons.dev)
