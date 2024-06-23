@@ -1,17 +1,11 @@
-# Hi there, I'm Minh Vu 👋
+<h1 align="center" >Hi there, I'm Minh Vu 👋</h1>
 
-<p align="center">
+<div align="center" >
   <img src="https://github.com/Codebutproblem/Codebutproblem/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codebutproblem&show_icons=true&theme=merko)
+<div align="center" >
+  <h2>🔥 Languages and Tools 🔥</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Codebutproblem&layout=compact)
-
-## Languages and Tools
-
-[![Language And Tools](https://skillicons.dev/icons?i=nodejs,react,js,ts,java,python,html,css,tailwind)](https://skillicons.dev)
-
-![snake gif](https://github.com/Codebutproblem/Codebutproblem/blob/output/github-contribution-grid-snake.gif)
-
-![Snake](https://github.com/Codebutproblem/Codebutproblem/blob/output/github-contribution-grid-snake-dark.svg)
+  <img src="https://skillicons.dev/icons?i=nodejs,react,js,ts,java,python,html,css,tailwind" >
+</div>
