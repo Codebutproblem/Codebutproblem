@@ -10,4 +10,4 @@
 
 ![snake gif](https://github.com/Codebutproblem/Codebutproblem/blob/output/github-contribution-grid-snake.gif)
 
-![Snake](https://github.com/Codebutproblem/Codebutproblem/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://github.com/Codebutproblem/Codebutproblem/blob/output/github-contribution-grid-snake-dark.svg)
