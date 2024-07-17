@@ -7,5 +7,5 @@
 <div align="center" >
   <h2>🔥 Languages and Tools 🔥</h2>
 
-  <img src="https://skillicons.dev/icons?i=nodejs,react,js,ts,java,python,html,css,tailwind" >
+  <img src="https://skillicons.dev/icons?i=nodejs,nest,react,js,ts,java,python,html,css,tailwind" >
 </div>
